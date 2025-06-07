@@ -38,3 +38,6 @@
 6. Select any unresolved elements and right click it. 
 7. Click the "Adapt to Context" in the popup menu to start adapting.
  
+ 
+## A Demo of WIRL 
+![](demo.gif)
